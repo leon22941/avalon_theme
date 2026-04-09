@@ -1,0 +1,35 @@
+{
+  "name": "avalon-theme",
+  "displayName": "Avalon",
+  "description": "A dark VS Code theme with purple and blue tones, inspired by the mystical isle of Avalon.",
+  "version": "1.0.0",
+  "publisher": "leon22941",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "purple",
+    "blue",
+    "avalon",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Avalon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/avalon-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leon22941/avalon_theme"
+  },
+  "icon": "avalon.png",
+  "license": "MIT"
+}
