@@ -1,9 +1,9 @@
 {
   "name": "avalon-theme",
-  "displayName": "Avalon",
+  "displayName": "Avalon Theme",
   "description": "A dark VS Code theme with purple and blue tones, inspired by the mystical isle of Avalon.",
   "version": "1.0.0",
-  "publisher": "leon22941",
+  "publisher": "leonfsr",
   "engines": {
     "vscode": "^1.70.0"
   },
